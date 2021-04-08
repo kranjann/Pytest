@@ -4,6 +4,6 @@
 
 import pytest
 
-def test_firstProgram():
+def test_firstProgram(setup):
     print("You have invoked first program")
 
