@@ -7,3 +7,6 @@ import pytest
 def test_firstProgram(setup):
     print("You have invoked first program")
 
+def test_crossBrowser(crossBrowser):
+    print(crossBrowser)
+
